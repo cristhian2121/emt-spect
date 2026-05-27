@@ -56,4 +56,4 @@ The agent does not invent requirements; unknowns stay explicit.
 
 ## License
 
-Apache-2.0 · v0.1 · gohan-rodolfo
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 gohan-rodolfo.

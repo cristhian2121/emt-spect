@@ -1,7 +1,7 @@
 ---
 name: emt-spect
 description: "Trigger: /emt-spect, $emt-spect, Spect, SDD. Clarifies requirements interactively, then saves a Spect doc under doc/."
-license: Apache-2.0
+license: MIT
 metadata:
   author: gohan-rodolfo
   version: "0.1"
